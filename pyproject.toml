@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-phycv"
+description = "Nodes:PhyCV - Phase-Stretch Transform (PST), PhyCV - VEViD, PhyCV - Page."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["phycv"]
+
+[project.urls]
+Repository = "https://github.com/JPrevots/ComfyUI-PhyCV"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PhyCV"
+Icon = ""
