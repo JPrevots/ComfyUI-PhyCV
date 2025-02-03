@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-phycv"
 description = "Nodes:PhyCV - Phase-Stretch Transform (PST), PhyCV - VEViD, PhyCV - Page."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["phycv"]
 
