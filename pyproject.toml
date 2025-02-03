@@ -10,6 +10,6 @@ Repository = "https://github.com/JPrevots/ComfyUI-PhyCV"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "@jprevots"
 DisplayName = "ComfyUI-PhyCV"
 Icon = ""
